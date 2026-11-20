@@ -1,0 +1,7 @@
+/*
+  X-Frame-Options: DENY
+  Content-Security-Policy: frame-ancestors 'none'
+  Referrer-Policy: no-referrer
+  X-Content-Type-Options: nosniff
+  Permissions-Policy: camera=(self), microphone=(self), geolocation=(self), display-capture=(self), payment=(), usb=()
+  Cross-Origin-Opener-Policy: same-origin

@@ -1,0 +1,17 @@
+{
+  "name": "Vaegis",
+  "short_name": "Vaegis",
+  "description": "Uçtan uca şifreli mesajlaşma ve sesli sohbet",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6a3fd6",
+  "theme_color": "#6a3fd6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
